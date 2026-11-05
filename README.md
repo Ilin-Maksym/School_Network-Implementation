@@ -9,11 +9,11 @@
 ## Network Segments
 The network can be separated on three different segments:
   Light blue, school network:
-  ![School Network](image/School.png)
+  ![School Network](images/School.png)
   Orange, internet:
-  ![School Network](image/Internet.png)
+  ![Internet](images/Internet.png)
   Purple and pink, routers:
-  ![School Network](image/Routers.png)
+  ![Routers](images/Routers.png)
 
 ## Network Components
 | Component Type | Model                                      | Quantity |
