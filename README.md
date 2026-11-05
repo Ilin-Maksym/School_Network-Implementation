@@ -4,15 +4,18 @@
   This project uses Cisco Packet Tracer to simulate a small school network. It was built as a learning exercise to practice designing, configuring, and securing a network with multiple devices and limited resources.
 
 ## Network Diagram
-![Network Diagram](image/Network.png)
+![Network Diagram](images/Network.png)
 
 ## Network Segments
 The network can be separated on three different segments:
-  Light blue, school network:
+  
+### Light blue, school network:
   ![School Network](images/School.png)
-  Orange, internet:
+  
+### Orange, internet:
   ![Internet](images/Internet.png)
-  Purple and pink, routers:
+
+### Purple and pink, routers:
   ![Routers](images/Routers.png)
 
 ## Network Components
